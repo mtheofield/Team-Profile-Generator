@@ -24,9 +24,9 @@ test("Constructor to see Managers email", () => {
 })
 
 test("Constructor for Managers office location", () => {
-    const officeNumber = 595;
-    const emp = new Manager("Mary", 22224, "mptheofield@gmail.com", officeNumber);
-    expect(emp.officeNumber).toBe(officeNumber);
+    const officeLocation = 595;
+    const emp = new Manager("Mary", 22224, "mptheofield@gmail.com", officeLocation);
+    expect(emp.officeLocation).toBe(officeLocation);
 })
 
 test("Manager role constructor", () => {
