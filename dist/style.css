@@ -1,0 +1,25 @@
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.jumbotron {
+    background-color: #283149;
+    color: white;
+}
+
+
+.card-header {
+    background-color: #008970;
+    color: white;
+}
+
+.card {
+    margin: 15px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.card-body {
+    font-size: .99rem !important;
+}

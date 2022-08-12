@@ -1,0 +1,1 @@
+generateHTML = require('./src/generateHTML')
