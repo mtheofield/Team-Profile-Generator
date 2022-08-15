@@ -5,19 +5,19 @@
 
 
 .jumbotron {
-    background-color: #283149;
+    background-color: #5d2d43;
     color: white;
 }
 
 
 .card-header {
-    background-color: #008970;
+    background-color: #7b9be6;
     color: white;
 }
 
 .card {
     margin: 15px;
-    box-shadow: 2px 2px 5px gray;
+    box-shadow: 2px 2px 5px rgb(183, 184, 183);
 }
 
 .card-body {

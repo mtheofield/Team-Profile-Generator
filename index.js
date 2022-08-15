@@ -1,4 +1,4 @@
-generateHTML = require('./src/generateHTML')
+const render = require('./src/generateHTML')
 const inquirer = require("inquirer");
 const fs = require("fs");
 const Manager = require("./lib/Manager");
