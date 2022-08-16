@@ -18,10 +18,10 @@ The user should clone the repository from GitHub and then initiate the node inde
    This allows a user to quickly generate a README by using a command-line application to generate the file.  Inquirer package is used for this project. To ensure the README generates properly please answer all of the prompt questions. 
 
    Example of the integrated terminal
-   ![Image of integrated terminal]()
+   ![Image of integrated terminal](img/terminalTeam.png)
 
   Example of completed team that was Built on the server
-   ![Image of completed HTML of team]()
+   ![Image of completed HTML of team](img/htmlTeam.png)
     A demo for this can be found here ()
 
 ## Contribute 
