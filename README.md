@@ -20,8 +20,8 @@ The user should clone the repository from GitHub and then initiate the node inde
    Example of the integrated terminal
    ![Image of integrated terminal]()
 
-  Example of completed README
-   ![Image of completed README]()
+  Example of completed team that was Built on the server
+   ![Image of completed HTML of team]()
     A demo for this can be found here ()
 
 ## Contribute 
